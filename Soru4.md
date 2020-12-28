@@ -46,6 +46,7 @@ from comparator
 group by cmp
 
 ```
+- num_of_correct_row eşleşen id sayılarını veriyor. Bu sayının db ve tr tablolarının row sayıları ile aynı olması durumunda, iki tablomuzun eşit olduğu sonucuna varıyoruz.
 
 - references:
 
